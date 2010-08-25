@@ -1,0 +1,12 @@
+#summary How to install plugin without using IntelliJ repository
+#labels install,manually
+
+= Install TunnelliJ plugin without using IntelliJ repository =
+
+You need to copy TunnelliJ.jar to *PATH_TO_IDEA/plugins/lib/intellij*/TunnelliJ.jar
+
+Feel free to create all necessary directories manually. 
+
+You can use file from Downloads tab:
+
+http://tunnellij.googlecode.com/files/TunnelliJ.jar
